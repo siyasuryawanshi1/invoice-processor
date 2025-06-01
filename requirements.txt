@@ -1,0 +1,14 @@
+streamlit>=1.28.0
+google-cloud-documentai>=2.20.0
+google-cloud-storage>=2.10.0
+pandas>=1.5.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+Pillow>=10.0.0
+PyPDF2>=3.0.0
+plotly>=5.15.0
+seaborn>=0.12.0
+python-dotenv>=1.0.0
+streamlit-aggrid>=0.3.4
+pydantic>=2.0.0

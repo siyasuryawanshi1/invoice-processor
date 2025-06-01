@@ -1,0 +1,42 @@
+# Environment files
+.env
+*.env
+
+# Credentials
+config/credentials.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Data directories
+data/uploads/*
+data/processed/*
+data/exports/*
+!data/uploads/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/secrets.toml
